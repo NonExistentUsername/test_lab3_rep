@@ -73,6 +73,8 @@
   ![test](screenshots/image10.png)
   ![test](screenshots/image4.png)
   
+  Image розміщений за наступним посиланням: https://hub.docker.com/repository/docker/sundu/webserver
+  
 - Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні.
 
   Скачав Image однокурсника та запустив на зовнішньому порті 8086.
